@@ -1,4 +1,7 @@
 {
-    "version" : "1.5.5",
-    "link" : "https://www.mediafire.com/file/ly21j2eokpkstey/main.exe/file"
+    "version" : {
+        "version" : "1.5.5",
+        "status" : "stable",
+        "link" : "https://www.mediafire.com/file/im848aug1oerxuq/G4F-Setup_1.5.5.exe/file"
+    }
 }
